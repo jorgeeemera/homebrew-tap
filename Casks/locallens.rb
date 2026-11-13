@@ -1,6 +1,6 @@
 cask "locallens" do
-  version "0.2.0"
-  sha256 "6e225675a79b51972f39a02ec8db307582aacaa2a0d806e30a9632b845d9fe99"
+  version "0.2.1"
+  sha256 "b1086461b27a0a6bef6357c91f81be364d3b95951f578f916ad86a8915fb35f3"
 
   url "https://github.com/jorgeeemera/locallens/releases/download/v#{version}/LocalLens-#{version}-arm64.zip"
   name "LocalLens"
